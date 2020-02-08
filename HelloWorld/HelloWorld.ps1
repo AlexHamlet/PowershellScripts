@@ -1,0 +1,6 @@
+Write-Output "Hello, Output" #Success Stream (1)
+Write-Error "Hello, Error" #Error Stream (2)
+Write-Warning "Hello, Warning" #Warning Stream (3)
+Write-Verbose "Hello, Verbose" #Verbose Stream (4)
+Write-Debug "Hello, Bug" #Debug Stream (5)
+Write-Host "Hello, World" #Information Stream (6)
